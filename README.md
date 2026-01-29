@@ -4,7 +4,7 @@ A simple HTML resume page built for Assignment 1.
 
 ## Demo
 
-- Live link: https://your-live-link.example
+- Live link: https://web-dev-cohort-26.vercel.app/
 
 ## Screenshots
 
